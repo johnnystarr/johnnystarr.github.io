@@ -30,8 +30,6 @@ twitter_username: jekyllrb
 github_username:  jekyll
 remote_theme: samarsault/plainwhite-jekyll
 
-# Build settings
-theme: plainwhite
 plugins:
   - jekyll-feed
 
