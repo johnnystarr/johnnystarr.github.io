@@ -9,6 +9,7 @@ remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # theme specific stuff
 plainwhite:
