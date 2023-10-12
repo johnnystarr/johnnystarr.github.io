@@ -4,10 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 
-<p align="center">Johnny Starr</p>
-
 {%- assign data = site.data.resume %}
 {%- assign basic = data.basic %}
 {%- if basic %}
-<h1>{{ basic.name }}</h1>
+<h1 style="text-align: center;">{{ basic.name }}</h1>
+<hr>
+<i class="fa-solid fa-envelope"></i> {{ basic.email }}
 {%- endif %}
