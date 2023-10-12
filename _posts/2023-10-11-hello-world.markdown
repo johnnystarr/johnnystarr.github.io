@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aloha World"
+title:  "Aloha World!"
 date:   2023-10-11 19:38:15 -1000
 categories: update
 ---
