@@ -19,6 +19,7 @@ plainwhite:
   dark_mode: false
   sitemap: true
   show_excerpts: true
+  analytics_id: "G-6345ETHHQC"
 
   navigation:
     - title: About
