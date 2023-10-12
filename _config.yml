@@ -13,7 +13,7 @@ plugins:
 # theme specific stuff
 plainwhite:
   name: Johnny Starr
-  tagline: Sr. DevOps Engineer, Inventor.
+  tagline: Sr. DevOps Engineer, Technologist, Nerd.
   date_format: "%b %-d, %Y"
   portfolio_image:  "assets/johnny.jpg"
   dark_mode: false
@@ -32,3 +32,4 @@ plainwhite:
   social_links:
     github: johnnystarr
     linkedIn: in/johnny-starr-40783372 # format: locale/username
+    twitter: johnnystarrwork
