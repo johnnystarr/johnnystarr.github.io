@@ -16,6 +16,18 @@ plainwhite:
   tagline: Sr. DevOps Engineer, Inventor.
   date_format: "%b %-d, %Y"
   portfolio_image:  "assets/johnny.jpg"
+  dark_mode: true
+  search: true
+  sitemap: true
+  show_excerpts: true
+
+  navigation:
+    - title: About
+      url: "/about"
+    - title: Projects
+      url: "/projects"
+    - title: Resume
+      url: "/resume"
 
   social_links:
     github: johnnystarr
