@@ -53,7 +53,6 @@ FileUtils.mkdir_p("_posts/#{category}")
 File.open("_posts/#{category}/#{date}-#{slug}.markdown", 'w') do |file|
   file.write(front_matter)
 end
-
 ```
 
 I have this file located in the root directory of my Jekyll project as `.scripts/generate_post.rb`.
