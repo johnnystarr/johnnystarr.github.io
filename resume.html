@@ -18,10 +18,10 @@ permalink: /resume/
     <i class="fa-solid fa-location-dot"></i> {{ contact.location }}
 </div>
 <div>
-    <i class="fa-solid fa-envelope"></i> {{ contact.email }}
+    <i class="fa-solid fa-mobile-screen-button"></i> {{ contact.phone }}
 </div>
 <div>
-    <i class="fa-solid fa-mobile-screen-button"></i> {{ contact.phone }}
+    <i class="fa-solid fa-envelope"></i> <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
 </div>
 <div>
     <i class="fa-solid fa-globe"></i> <a href="{{ contact.website }}">{{ contact.website }}</a>
