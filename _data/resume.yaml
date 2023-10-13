@@ -1,5 +1,16 @@
-basic:
-  name: Johnny Starr
-  email: johnnystarr@gmail.com
-  location: Honolulu, HI
-  phone: 415-621-9322
+resume:
+  contact:
+    name: Johnny Starr
+    email: johnnystarr@gmail.com
+    location: Honolulu, HI
+    phone: 415-621-9322
+
+  experience:
+
+  certifcations:
+
+  skills:
+
+  projects:
+
+  references:

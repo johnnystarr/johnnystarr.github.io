@@ -5,11 +5,31 @@ permalink: /resume/
 ---
 
 {%- assign data = site.data.resume %}
-{%- assign basic = data.basic %}
-{%- if basic %}
-<h1 style="text-align: center;">{{ basic.name }}</h1>
+{%- assign contact = data.contact %}
+{%- if contact %}
+<h1 style="text-align: center;">{{ contact.name }}</h1>
 <hr>
-<i class="fa-solid fa-envelope"></i> {{ basic.email }} •
-<i class="fa-solid fa-location-dot"></i> {{ basic.location }} •
-<i class="fa-solid fa-mobile-screen-button"></i> {{ basic.phone }}
+<i class="fa-solid fa-envelope"></i> {{ contact.email }} •
+<i class="fa-solid fa-location-dot"></i> {{ contact.location }} •
+<i class="fa-solid fa-mobile-screen-button"></i> {{ contact.phone }}
 {%- endif %}
+
+{%- assign experience = data.experince %}
+{%- if experience %}
+<h2><i class="fa-solid fa-briefcase"></i> Experience</h2>
+{%- end if %}
+
+{%- assign skills = data.skills %}
+{%- if skills %}
+<h2><i class="fa-solid fa-briefcase"></i> Skills</h2>
+{%- end if %}
+
+{%- assign certificates = data.certificates %}
+{%- if certificates %}
+<h2><i class="fa-solid fa-certificate"></i> Certificates</h2>
+{%- end if %}
+
+{%- assign references = data.references %}
+{%- if references %}
+<h2><i class="fa-solid fa-handshake"></i> References</h2>
+{%- end if %}
