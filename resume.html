@@ -29,6 +29,15 @@ permalink: /resume/
 <hr>
 {%- endif %}
 
+{%- assign bio = data.bio %}
+{%- if bio %}
+<div>
+    <h2><i class="fa-solid fa-circle-user"></i> {{ bio.title }}</h2>
+    <p>{{ bio.synopsis }}</p>
+    <hr>
+</div>
+{%- endif %}
+
 {%- assign experience = data.experience %}
 {%- if experience %}
 <div>
