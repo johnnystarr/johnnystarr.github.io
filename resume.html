@@ -4,6 +4,14 @@ title: Resume
 permalink: /resume/
 ---
 
+<style>
+    hr {
+        border-top: 1px dotted #005eff;
+    }
+    i {
+        text-decoration-color: #005eff;
+    }
+</style>
 {%- assign data = site.data.resume.resume %}
 {%- assign contact = data.contact %}
 {%- if contact %}
@@ -18,19 +26,22 @@ permalink: /resume/
 <div>
     <i class="fa-solid fa-mobile-screen-button"></i> {{ contact.phone }}
 </div>
+<hr>
 {%- endif %}
 
 {%- assign experience = data.experience %}
 {%- if experience %}
 <div>
     <h2><i class="fa-solid fa-briefcase"></i> Experience</h2>
+    <hr>
 </div>
 {%- endif %}
 
 {%- assign skills = data.skills %}
 {%- if skills %}
 <div>
-    <h2><i class="fa-solid fa-briefcase"></i> Skills</h2>
+    <h2><i class="fa-solid fa-laptop-code"></i> Skills</h2>
+    <hr>
 </div>
 {%- endif %}
 
@@ -38,6 +49,7 @@ permalink: /resume/
 {%- if certificates %}
 <div>
     <h2><i class="fa-solid fa-certificate"></i> Certificates</h2>
+    <hr>
 </div>
 {%- endif %}
 
@@ -45,5 +57,6 @@ permalink: /resume/
 {%- if references %}
 <div>
     <h2><i class="fa-solid fa-handshake"></i> References</h2>
+    <hr>
 </div>
 {%- endif %}
