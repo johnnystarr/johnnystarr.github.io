@@ -9,9 +9,15 @@ permalink: /resume/
 {%- if contact %}
 <h1 style="text-align: center;">{{ contact.name }}</h1>
 <hr>
-<i class="fa-solid fa-envelope"></i> {{ contact.email }} •
-<i class="fa-solid fa-location-dot"></i> {{ contact.location }} •
-<i class="fa-solid fa-mobile-screen-button"></i> {{ contact.phone }}
+<div>
+    <i class="fa-solid fa-envelope"></i> {{ contact.email }}
+</div>
+<div>
+    <i class="fa-solid fa-location-dot"></i> {{ contact.location }}
+</div>
+<div>
+    <i class="fa-solid fa-mobile-screen-button"></i> {{ contact.phone }}
+</div>
 {%- endif %}
 
 {%- assign experience = data.experince %}
