@@ -7,7 +7,7 @@ category: "devops"
 permalink: /scotty-syndrome/
 ---
 
-![Scotty Syndrome](/assets/images/posts/scotty-syndrome.jpeg){: width=50%; display: block; margin-left: auto; margin-right: auto; }
+![Scotty Syndrome](/assets/images/posts/scotty-syndrome.jpeg){: width="50%" }
 
 What exactly is the Scotty Syndrome?  Well, I sorta made it up.  The alliterative title of this post is a term I use 
 often to describe myself and others who share characteristics that remind me of "Mr. Scott" from Star Trek.  Apart from
