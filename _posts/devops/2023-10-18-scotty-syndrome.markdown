@@ -42,7 +42,7 @@ how you became the expert, it should be your goal to share what you know with ot
 ### You have grown emotionally attached to your infrastructure:
 I remember at a Microsoft conference in 2015 when I heard "Cattle over Kittens" for the first time.  One of the
 observations was the human component of naming infrastructure.  A name like `nginx-dev-ax0fe` is a lot easier to delete
-than say "Stella" or "Apollo".  I'm not psych expert, but suffice it to say names make things personal.  The Scottys 
+than say "Stella" or "Apollo".  I'm not a psych expert, but suffice it to say names make things personal.  The Scottys 
 tend to take it a few steps further.  A big part of this process is "caring too much".  Designs, implementations, and
 architectures inherently include a "part" of the Scotty.
 - Scottys tend to get attached to their designs
