@@ -18,7 +18,7 @@ some takeaways for anyone who is reading this who isn't a Scotty per se, but wor
 
 ### It seems you are the only person who sees the danger in what we're about to do:
 Have you ever been in a meeting and felt like the proverbial bus was about to go over the cliff?  Perhaps you are in
-the middle of a migration strategy.  Or, you are going live with a product or service.  Regardless of the circumstances
+the middle of a migration strategy, or, you are going live with a product or service.  Regardless of the circumstances
 its common for the Scotty types, to feel apprehensive.  At times, I have been labeled as a "pessimist" despite my 
 otherwise cheerful nature.
 
@@ -29,25 +29,25 @@ asset.
 - Realize that the wheels in their head are spinning. Wheels that are trying to take your organization to safety. 
 
 ### You are one of the few members of your domain that fully understands it:
-This can be true of almost anyone, but especially the Scotty's of the world.  It's not your fault, you just seem to 
+This can be true of almost anyone, but especially the Scottys of the world.  It's not your fault, you just seem to 
 get involved with everything you can.  Other times, you were the first to join the current team as well.  Regardless of
 how you became the expert, it should be your goal to share what you know with others.  I won't get into the details of
 "Brent" from the Phoenix Project, but you probably know what I'm talking about if you're reading this.
 
 #### Takeaways
-- The Scotty's of the world bear a huge burden being the goto for all things X
+- The Scottys of the world bear a huge burden being the go-to for all things X
 - Be sure to recognize those who hold the mental "keys to the kingdom"
-- Scotty's should resist the urge to hoard their knowledge and entrust it to others
+- Scottys should resist the urge to hoard their knowledge and entrust it to others
 
 ### You have grown emotionally attached to your infrastructure:
 I remember at a Microsoft conference in 2015 when I heard "Cattle over Kittens" for the first time.  One of the
 observations was the human component of naming infrastructure.  A name like `nginx-dev-ax0fe` is a lot easier to delete
-than say "Stella" or "Apollo".  I'm not psych expert, but suffice it to say names make things personal.  The Scotty's 
+than say "Stella" or "Apollo".  I'm not psych expert, but suffice it to say names make things personal.  The Scottys 
 tend to take it a few steps further.  A big part of this process is "caring too much".  Designs, implementations, and
 architectures inherently include a "part" of the Scotty.
-- Scotty's tend to get attached to their designs
-- Be considerate of their attachment when deciding to retire one of their systems or designs
-- Show gratitude for the unparalleled uptime as most Scotty's set things up that don't go down often
+- Scottys tend to get attached to their designs
+- Be considerate of this when deciding to retire one of their systems or designs
+- Show gratitude for the unparalleled uptime, as most Scottys set things up that don't often go down
 
 ### Your boss springs dangerous, or seemingly impossible scenarios on you last minute:
 There are few original Star Trek episodes that don't end with have some wild last minute gambit where Kirk contacts 
@@ -56,18 +56,18 @@ you who have been told to drop everything for some knee jerk requirement.  The S
 will protest to the bitter end.  This is because the Scotty has a strong sense of ownership and safety.
 
 #### Takeaways
-- Despite the Scotty's objections, deep down there is a strong desire to do the impossible.
-- Try not to take objections personally, and see that there are reasons to compromise.
-- The Scotty will always prioritize the safety of the "crew" and the "ship".
+- Despite the Scottys objections, deep down there is a strong desire to do the impossible
+- Try not to take objections personally, and see if there are ways to compromise
+- The Scotty will always prioritize the safety of the "crew" and the "ship"
 
 ### You are known as a "miracle worker":
 There is a concept I want to write about called the "10x Developer".  It is somewhat of a myth, but seems to have merit.
-It describes a developer (or engineer) who somehow produces 10 times the output of the average counterpart.  I have 
-personally known a few in my time, and have even been called one myself.
+It describes a developer (or engineer) who somehow produces 10 times the output of their average counterpart.  I have 
+personally known a few in my time, and have even been called one.
 
-Being put on this pedestal my stroke the ego, but has very few rewards otherwise.  I have heard other similar phrases
-such as "Wizards", or "Gandalfs".  The main problem with this moniker is it is often associated with unrealistic 
-expectations.  Usually, these are self imposed.  At the same time, one of the most important components of the Scotty
+Being put on this pedestal may stroke the ego, but has very few rewards otherwise.  You may have heard other similar 
+phrases such as "Wizards", or "Gandalfs".  The main problem with this moniker is it is often associated with unrealistic 
+expectations.  Usually, these are self-imposed.  At the same time, one of the most important components of the Scotty
 personality is feeling important, unique, and non expendable, so it's a balance.
 
 #### Takeaways
@@ -77,4 +77,4 @@ personality is feeling important, unique, and non expendable, so it's a balance.
 ### Final Thoughts
 Not everyone is a Scotty and that's good.  Without "Kirks" we wouldn't push ourselves.  At the end of the day, all
 organizations take a full team of contributors to make things happen.  Just try to take note of those in your particular
-organization to appreciate the "heavy lifters".  The Scotty's!
+organization to appreciate the "heavy lifters".  The Scottys!
